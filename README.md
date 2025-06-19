@@ -22,3 +22,5 @@ For extended functionality, the project also includes a Node.js and Express.js-b
 
 In summary, this Chrome extension is a lightweight, user-friendly tool that helps individuals track their digital behavior, classify website usage, and analyze productivity in real time. It offers both local and backend-supported storage options, making it flexible for different usage scenarios. By turning browsing habits into visual, trackable metrics, the extension promotes greater awareness and control over how users spend their time online, ultimately leading to improved time management and productivity.
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/3684a9f9-aa15-4b92-90f5-aadcd1c1a322)
